@@ -1,55 +1,104 @@
-<h2 align="left">Hi 👋! My name is João Gabriel and i'm a Web and Mobile Developer, from Ubatuba, SP - Brazil</h2>
+<!-- README do Perfil GitHub - João Gabriel -->
+<!-- Username assumido: joaogabrielnero | Altere se necessário -->
 
-###
+<h2 align="left">Hi 👋! I'm João Gabriel — Web & Mobile Developer from Ubatuba, SP 🇧🇷</h2>
 
+<p align="left">
+  Desenvolvedor Web e Mobile focado em criar aplicações modernas, APIs robustas e produtos SaaS escaláveis.
+</p>
+
+<!-- Badges -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joaogabrielnero&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/joaogabrielnero?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/joaogabrielnero?label=Stars&style=flat" alt="stars" />
+</p>
+
+---
+
+<h3 align="left">⚡ Sobre mim</h3>
+
+- 💻 Desenvolvimento de **Web Apps**, **Mobile Apps** e **APIs**
+- 🧠 Stack principal: **Go**, **Vue.js**, **Node.js**, **TypeScript**
+- 🚀 Interesse em **SaaS**, **Pagamentos**, **Automação** e **DevOps**
+- 📍 Ubatuba/SP — Brasil
+
+---
+
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nerosolutions" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=nerosolutions" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joaogabrielnero&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrielnero&layout=compact&langs_count=8&theme=dracula"
+    height="160"
+    alt="Top languages"
+  />
 </div>
 
-###
+<!-- GitHub Streak -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=joaogabrielnero&theme=dracula"
+    height="170"
+    alt="GitHub streak"
+  />
+</div>
 
-<img align="right" height="150" src="https://scontent.fcgh28-1.fna.fbcdn.net/v/t39.30808-6/287153688_404605648250005_7163363210751018380_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeETxovfCpiVVohYPG9cbEodND-amG7oefY0P5qYbuh59sEgy4xT0R5X4ZJIUMrj98wx_Ty5S4KRweoy_ZRb7viT&_nc_ohc=zpmrvzk8xO4AX-rvsbE&_nc_zt=23&_nc_ht=scontent.fcgh28-1.fna&oh=00_AT_j4fG1J9p8_0lg9AJQ0DJYhkxa-2MsVU1ysWmZCaLo5A&oe=62B53667"  />
+---
 
-###
+<h3 align="left">🧰 Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" width="42" alt="ionic logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" width="42" alt="Ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="Linux" />
 </div>
 
-###
+---
+
+<h3 align="left">🌐 Contato</h3>
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCOATOT12u5_QAsRpEKM8BMA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/eujoaogabrielgt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/odevcaicara" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
+
   <a href="https://www.linkedin.com/in/nero-solutions/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/message/D24R6GBJTAOQP1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+
+  <a href="https://wa.me/beeasy" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<h3 align="left">🚀 Projetos em destaque</h3>
 
-<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
+<ul>
+  <li><b>Click Clínicas</b> — Sistema SaaS para clínicas (gestão, agenda e automações)</li>
+  <li><b>Agenda365</b> — Plataforma de agendamentos online</li>
+  <li><b>Rifa365</b> — Plataforma de rifas online com pagamentos integrados</li>
+</ul>
