@@ -1,7 +1,7 @@
 <!-- README GitHub – João Gabriel -->
 <!-- GitHub: joaogabrielnero -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=180&section=header&text=João%20Gabriel%20Nero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=180&section=header&text=João%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
