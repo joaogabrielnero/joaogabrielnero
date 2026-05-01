@@ -156,54 +156,7 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogabrielnero&amp;theme=dracula"
-    alt="GitHub Profile Details"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogabrielnero&amp;theme=dracula"
-    height="180"
-    alt="Repos per Language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogabrielnero&amp;theme=dracula"
-    height="180"
-    alt="Most Commit Language"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogabrielnero&amp;theme=dracula"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogabrielnero&amp;theme=dracula&amp;utcOffset=-3"
-    height="180"
-    alt="Productive Time"
-  />
-
-</div>
-
-<br/>
+## 📊 Atividade no GitHub
 
 <div align="center">
 
