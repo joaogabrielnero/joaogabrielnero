@@ -1,11 +1,11 @@
 <!-- README GitHub – João Gabriel -->
 <!-- GitHub: joaogabrielnero -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=180&section=header&text=João%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7B2FF7,100:F107A3&amp;height=180&amp;section=header&amp;text=João%20Gabriel%20Nero&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35"/>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F107A3&center=true&vCenter=true&width=900&lines=Web+%26+Mobile+Developer;Founder+%40+Beeasy+Digital;SaaS%2C+APIs%2C+Automa%C3%A7%C3%B5es+e+Pagamentos;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=F107A3&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Web+%26+Mobile+Developer;Founder+%40+Beeasy+Digital;SaaS%2C+APIs%2C+Automa%C3%A7%C3%B5es+e+Pagamentos;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 ## ⚡ Sobre mim
 
 - 💻 Desenvolvimento de **Web Apps**, **Mobile Apps**, **APIs** e **Sistemas SaaS**
-- 🧠 Stack principal: **Go, Vue.js, Node.js, TypeScript**
+- 🧠 Stack principal: **Go, Vue.js, Node.js, TypeScript, Delphi**
 - 🚀 Interesse em **SaaS, Pagamentos, Automação, DevOps e Produtos Digitais**
 - 🏢 Founder da **Beeasy Digital**
 - 🧑‍💻 Mais de **14 anos de experiência** com programação e tecnologia
@@ -46,7 +46,7 @@ Toda minha trajetória está no meu site. Dá uma passada lá 👇
 <div align="left">
 
   <a href="https://beeasy.digital/" target="_blank">
-    <img src="https://img.shields.io/badge/Conheça%20a%20Beeasy%20Digital-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Conheça%20a%20Beeasy%20Digital-7B2FF7?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
   </a>
 
 </div>
@@ -101,6 +101,8 @@ Toda minha trajetória está no meu site. Dá uma passada lá 👇
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP"/>
   <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="35" alt="Delphi"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
@@ -118,16 +120,17 @@ Toda minha trajetória está no meu site. Dá uma passada lá 👇
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&amp;logo=delphi&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
   <img src="https://img.shields.io/badge/SaaS-7B2FF7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Payments-F107A3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge"/>
@@ -156,23 +159,26 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=joaogabrielnero&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=joaogabrielnero&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=dracula&amp;hide_border=true&amp;cache_seconds=1800"
     height="160"
     alt="GitHub stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielnero&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielnero&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true&amp;cache_seconds=1800"
     height="160"
     alt="Top languages"
   />
+
 </div>
 
 <br/>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=joaogabrielnero&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com?user=joaogabrielnero&amp;theme=dracula&amp;hide_border=true"
     height="170"
     alt="GitHub streak"
   />
@@ -182,7 +188,7 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=joaogabrielnero&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+    src="https://github-profile-trophy.vercel.app/?username=joaogabrielnero&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8"
     alt="GitHub trophies"
   />
 </div>
@@ -204,27 +210,27 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 
 <div align="left">
   <a href="https://beeasy.digital/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-Beeasy%20Digital-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Site-Beeasy%20Digital-7B2FF7?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
   </a>
 
   <a href="https://www.youtube.com/channel/UCOATOT12u5_QAsRpEKM8BMA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/odevcaicara" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-odevcaicara-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-odevcaicara-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/beeasy.digital" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Beeasy%20Digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-Beeasy%20Digital-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/nero-solutions/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Gabriel-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
 
   <a href="https://wa.me/5512991952451" target="_blank">
-    <img src="https://img.shields.io/badge/Chamar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chamar%20no%20WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
   </a>
 </div>
 
@@ -236,6 +242,6 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F107A3,100:7B2FF7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F107A3,100:7B2FF7&amp;height=120&amp;section=footer"/>
 
 </div>
