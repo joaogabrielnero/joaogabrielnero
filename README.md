@@ -161,15 +161,8 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=joaogabrielnero&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=dracula&amp;hide_border=true&amp;cache_seconds=1800"
-    height="160"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielnero&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true&amp;cache_seconds=1800"
-    height="160"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogabrielnero&amp;theme=dracula"
+    alt="GitHub Profile Details"
   />
 
 </div>
@@ -177,20 +170,60 @@ Empresa principal voltada para tecnologia, desenvolvimento de sistemas, produtos
 <br/>
 
 <div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogabrielnero&amp;theme=dracula"
+    height="180"
+    alt="Repos per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogabrielnero&amp;theme=dracula"
+    height="180"
+    alt="Most Commit Language"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogabrielnero&amp;theme=dracula"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogabrielnero&amp;theme=dracula&amp;utcOffset=-3"
+    height="180"
+    alt="Productive Time"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
   <img
     src="https://streak-stats.demolab.com?user=joaogabrielnero&amp;theme=dracula&amp;hide_border=true"
     height="170"
     alt="GitHub streak"
   />
+
 </div>
 
 <br/>
 
 <div align="center">
+
   <img
     src="https://github-profile-trophy.vercel.app/?username=joaogabrielnero&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8"
     alt="GitHub trophies"
   />
+
 </div>
 
 ---
